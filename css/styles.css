@@ -1,0 +1,53 @@
+body {
+    font-family: system-ui;
+    background: #f06d06;
+    color: black;
+    text-align: center;
+  }
+  
+.avatar.proportioned {
+    width: 300px;
+    height: auto;
+}
+
+.avatar.distorted {
+    width: 200px;
+    height: 400px;
+}
+
+  .groupingSelectors1,
+  .groupingSelectors2 {
+    font-size: 20px;
+    font-family: "Helvetica", "Times New Roman". sans-serif;
+  }
+  
+  .groupingSelectors1 {
+    background: black;
+    color: white;
+  }
+  
+  .groupingSelectors2 {
+    background: yellow;
+  }
+  
+  .odd {
+    background: pink;
+    font-family: "Verada", "Dejavu Sans", sans-serif;
+  }
+  
+  .third {
+    font-size: 24px;
+    color: white;
+  }
+  
+  
+  #two {
+    color: blue;
+    font-size: 36px;
+  }
+  
+  #fourth {
+    background: green;
+    font-size: 24px;
+    font-weight: bold;
+  }
